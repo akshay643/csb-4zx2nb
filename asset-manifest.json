@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://akshay643.github.io/csb-4zx2nb/static/css/main.2e6db60d.chunk.css",
-    "main.js": "https://akshay643.github.io/csb-4zx2nb/static/js/main.e9313803.chunk.js",
-    "main.js.map": "https://akshay643.github.io/csb-4zx2nb/static/js/main.e9313803.chunk.js.map",
+    "main.css": "https://akshay643.github.io/csb-4zx2nb/static/css/main.5c1dad3e.chunk.css",
+    "main.js": "https://akshay643.github.io/csb-4zx2nb/static/js/main.3ede8293.chunk.js",
+    "main.js.map": "https://akshay643.github.io/csb-4zx2nb/static/js/main.3ede8293.chunk.js.map",
     "runtime-main.js": "https://akshay643.github.io/csb-4zx2nb/static/js/runtime-main.7fd7f09e.js",
     "runtime-main.js.map": "https://akshay643.github.io/csb-4zx2nb/static/js/runtime-main.7fd7f09e.js.map",
-    "static/js/2.6a30db50.chunk.js": "https://akshay643.github.io/csb-4zx2nb/static/js/2.6a30db50.chunk.js",
-    "static/js/2.6a30db50.chunk.js.map": "https://akshay643.github.io/csb-4zx2nb/static/js/2.6a30db50.chunk.js.map",
+    "static/js/2.1bea5088.chunk.js": "https://akshay643.github.io/csb-4zx2nb/static/js/2.1bea5088.chunk.js",
+    "static/js/2.1bea5088.chunk.js.map": "https://akshay643.github.io/csb-4zx2nb/static/js/2.1bea5088.chunk.js.map",
     "index.html": "https://akshay643.github.io/csb-4zx2nb/index.html",
-    "static/css/main.2e6db60d.chunk.css.map": "https://akshay643.github.io/csb-4zx2nb/static/css/main.2e6db60d.chunk.css.map",
-    "static/js/2.6a30db50.chunk.js.LICENSE.txt": "https://akshay643.github.io/csb-4zx2nb/static/js/2.6a30db50.chunk.js.LICENSE.txt",
+    "static/css/main.5c1dad3e.chunk.css.map": "https://akshay643.github.io/csb-4zx2nb/static/css/main.5c1dad3e.chunk.css.map",
+    "static/js/2.1bea5088.chunk.js.LICENSE.txt": "https://akshay643.github.io/csb-4zx2nb/static/js/2.1bea5088.chunk.js.LICENSE.txt",
     "static/media/pic1.e6e84a6e.jpg": "https://akshay643.github.io/csb-4zx2nb/static/media/pic1.e6e84a6e.jpg",
     "static/media/video.f814dd23.mp4": "https://akshay643.github.io/csb-4zx2nb/static/media/video.f814dd23.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.7fd7f09e.js",
-    "static/js/2.6a30db50.chunk.js",
-    "static/css/main.2e6db60d.chunk.css",
-    "static/js/main.e9313803.chunk.js"
+    "static/js/2.1bea5088.chunk.js",
+    "static/css/main.5c1dad3e.chunk.css",
+    "static/js/main.3ede8293.chunk.js"
   ]
 }
