@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://akshay643.github.io/csb-4zx2nb/static/css/main.2e6db60d.chunk.css",
-    "main.js": "https://akshay643.github.io/csb-4zx2nb/static/js/main.e9313803.chunk.js",
-    "main.js.map": "https://akshay643.github.io/csb-4zx2nb/static/js/main.e9313803.chunk.js.map",
-    "runtime-main.js": "https://akshay643.github.io/csb-4zx2nb/static/js/runtime-main.7fd7f09e.js",
-    "runtime-main.js.map": "https://akshay643.github.io/csb-4zx2nb/static/js/runtime-main.7fd7f09e.js.map",
-    "static/js/2.d70ff13d.chunk.js": "https://akshay643.github.io/csb-4zx2nb/static/js/2.d70ff13d.chunk.js",
-    "static/js/2.d70ff13d.chunk.js.map": "https://akshay643.github.io/csb-4zx2nb/static/js/2.d70ff13d.chunk.js.map",
-    "index.html": "https://akshay643.github.io/csb-4zx2nb/index.html",
-    "static/css/main.2e6db60d.chunk.css.map": "https://akshay643.github.io/csb-4zx2nb/static/css/main.2e6db60d.chunk.css.map",
-    "static/js/2.d70ff13d.chunk.js.LICENSE.txt": "https://akshay643.github.io/csb-4zx2nb/static/js/2.d70ff13d.chunk.js.LICENSE.txt",
-    "static/media/pic1.e6e84a6e.jpg": "https://akshay643.github.io/csb-4zx2nb/static/media/pic1.e6e84a6e.jpg",
-    "static/media/video.f814dd23.mp4": "https://akshay643.github.io/csb-4zx2nb/static/media/video.f814dd23.mp4"
+    "main.css": "https://.github.io/csb-4zx2nb/static/css/main.2e6db60d.chunk.css",
+    "main.js": "https://.github.io/csb-4zx2nb/static/js/main.e9313803.chunk.js",
+    "main.js.map": "https://.github.io/csb-4zx2nb/static/js/main.e9313803.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-4zx2nb/static/js/runtime-main.ca0f51fd.js",
+    "runtime-main.js.map": "https://.github.io/csb-4zx2nb/static/js/runtime-main.ca0f51fd.js.map",
+    "static/js/2.4edb64db.chunk.js": "https://.github.io/csb-4zx2nb/static/js/2.4edb64db.chunk.js",
+    "static/js/2.4edb64db.chunk.js.map": "https://.github.io/csb-4zx2nb/static/js/2.4edb64db.chunk.js.map",
+    "index.html": "https://.github.io/csb-4zx2nb/index.html",
+    "static/css/main.2e6db60d.chunk.css.map": "https://.github.io/csb-4zx2nb/static/css/main.2e6db60d.chunk.css.map",
+    "static/js/2.4edb64db.chunk.js.LICENSE.txt": "https://.github.io/csb-4zx2nb/static/js/2.4edb64db.chunk.js.LICENSE.txt",
+    "static/media/pic1.e6e84a6e.jpg": "https://.github.io/csb-4zx2nb/static/media/pic1.e6e84a6e.jpg",
+    "static/media/video.f814dd23.mp4": "https://.github.io/csb-4zx2nb/static/media/video.f814dd23.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fd7f09e.js",
-    "static/js/2.d70ff13d.chunk.js",
+    "static/js/runtime-main.ca0f51fd.js",
+    "static/js/2.4edb64db.chunk.js",
     "static/css/main.2e6db60d.chunk.css",
     "static/js/main.e9313803.chunk.js"
   ]
